@@ -1,0 +1,28 @@
+body {
+
+    color: #000000;
+    background-image: ("bacteria2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+
+.jumbotron {
+    background-image: ("bacteria.png") 
+    color: black;
+    background-size: 100% 100%;
+    text-align: center;
+    box-shadow: 5px 5px 10px gray;
+}
+
+#para1 {
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(112, 128, 144);
+    background-color: rgb(24, 116, 200);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 3px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px gray;
+    font-size: 85%;
