@@ -6,6 +6,7 @@ function init() {
 
   // Use the list of sample names to populate the select options
   d3.json("static/js/samples.json").then((data) => {
+    console.log(data)
     var sampleNames = data.names;
 
     sampleNames.forEach((sample) => {
@@ -101,7 +102,12 @@ function buildCharts(sample) {
     };
     // 10. Use Plotly to plot the data with the layout. 
     Plotly.newPlot("bar", barData, barLayout);
-}
+})
+
+
+
+
+
 // Deliverable 2
 
     // 1. Create the trace for the bubble chart.
@@ -177,5 +183,5 @@ var gaugeLayout = {
 
 // 6. Use Plotly to plot the gauge data and layout.
 Plotly.newPlot("gauge", gaugeData, gaugeLayout);
-});
+// });
 }
