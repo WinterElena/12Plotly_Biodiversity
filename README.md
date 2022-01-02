@@ -6,4 +6,4 @@ Roza discover and document- bacteria that have the ability to synthesize protein
 
 ## Summary
 The dashboard created to show user data for Roza’s efforts will allow for Roza to present her results to Improbable Beef, as well as; allow for her data subjects to look up their individual results.  Roza created a drop down list on the side for the subjects to find their specific results and the charts will modify for each individual result.  Truly dynamic!
-![dashboard.JPG](static/images/dashboard.JPG)
+![dashboard.JPG](Homework\12Plotly_Biodiversity/dashboard.JPG)
