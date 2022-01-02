@@ -1,14 +1,14 @@
 body {
 
     color: #000000;
-    background-image: ("bacteria2.png");
+    background-image: ("bacteria.png");
     background-size: cover;
     background-repeat: no-repeat;
   }
 
 
 .jumbotron {
-    background-image: ("bacteria.png") 
+    background-image: ("bacteria2.PNG") 
     color: black;
     background-size: 100% 100%;
     text-align: center;

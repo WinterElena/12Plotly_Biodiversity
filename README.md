@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# 12Plotly_Biodiversity
 
-You can use the [editor on GitHub](https://github.com/WinterElena/12Plotly_Biodiversity/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Overview
+Roza discover and document- bacteria that have the ability to synthesize proteins that taste like beef.   The lab where Roza works has partnered with Improbable Beef, a food start up to research contender species.   Roza has a hypothesis that the ideal contender resides in the human bellybutton, and the lab has collected hundreds of samples.    This website holds the data and a way to easily sort and see cross-sections of data that has already been compiled and sorted in graphs for the user’s review.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WinterElena/12Plotly_Biodiversity/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Summary
+The dashboard created to show user data for Roza’s efforts will allow for Roza to present her results to Improbable Beef, as well as; allow for her data subjects to look up their individual results.  Roza created a drop down list on the side for the subjects to find their specific results and the charts will modify for each individual result.  Truly dynamic!
+![dashboard.JPG](static/images/dashboard.JPG)
