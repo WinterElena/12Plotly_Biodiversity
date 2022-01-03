@@ -90,13 +90,14 @@ function buildCharts(sample) {
     var barData = [{
       y: yticks,
       x: sampleData,
-      type: "bar",
-     // opacity: 0.5,
-     // marker: {
-     //   color: 'rgb(158,202,225)',
-     //   line: {
-     //     color: 'rgb(8,48,107)',
-     //     width: 1.5
+      type: "bar", 
+      color: 'rgb(225,225,225)',
+     //opacity: 0.5,
+     //marker: {
+       //color: 'rgb(158,202,225)',
+       //line: {
+        // color: 'rgb(8,48,107)',
+        // width: 1.5
       orientation: "h",
           text: otuLabels
         }];
